@@ -8,12 +8,14 @@ body {
     font-weight: 400;
     font-style: normal;
     text-align: center;
-    font-size: 30px;
+    font-size: 50px;
+    margin-right: 80px;
+    margin-top: -40px;
 }
 
 .issoai2 {
-    margin-top: -70px;
-    margin-left: 70px;
+    margin-top: -120px;
+    margin-left: 180px;
 
 }
 
@@ -24,6 +26,62 @@ body {
     text-align: center;
     font-size: 30px;
     font-size: 20px;
-    margin-top: -60px;
-    margin-right: 50px;
+    margin-top: -100px;
+    margin-left: 300px;
+}
+
+.issoai4 {
+    color: rgb(226, 226, 226);
+    font-family: "Gamja Flower", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    text-align: center;
+    margin-top: -62px;
+    margin-left: 70px;
+    font-size: 25px;
+}
+
+.imgs {
+    margin-top: -290px;
+    margin-left: 740px;
+}
+
+.img2 {
+    height: 180px;
+    width: 180px;
+    transform: rotate(20deg);
+}
+
+.img3 {
+    height: 180px;
+    width: 180px;
+    transform: rotate(-100deg);
+    margin-left: 390px;
+    margin-top: -230px;
+}
+
+.img4 {
+    height: 170px;
+    width: 170px;
+}
+
+.issoai5 {
+    margin-top: -100px;
+    margin-left: 470px;
+}
+
+.img5 {
+    height: 170px;
+    width: 170px;
+    margin-left: 150px;
+}
+
+.img6 {
+    height: 140px;
+    width: 140px;
+}
+
+.issoai6 {
+    margin-top: -350px;
+    margin-left: 830px;
 }
