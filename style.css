@@ -6,6 +6,7 @@ body {
     color: white;
     font-family: "Carter One", system-ui;
     font-weight: 400;
+    text-shadow: -8px 2px 4px rgba(0, 0, 0, 0.5);
     font-style: normal;
     text-align: center;
     font-size: 50px;
@@ -63,6 +64,7 @@ body {
 .img4 {
     height: 170px;
     width: 170px;
+
 }
 
 .issoai5 {
@@ -84,4 +86,101 @@ body {
 .issoai6 {
     margin-top: -350px;
     margin-left: 830px;
+}
+
+.issoai7 {
+    font-family: "Carter One", system-ui;
+    font-weight: 400;
+    text-shadow: -2px 2px 4px rgba(51, 32, 121, 0.5);
+    font-style: normal;
+    font-size: 30px;
+    color: rgb(236, 236, 236);
+    margin-left: 55vh;
+    margin-top: 15vh;
+}
+
+.issoai8 {
+    font-family: "Carter One", system-ui;
+    font-weight: 400;
+    text-shadow: -2px 2px 4px rgba(51, 32, 121, 0.5);
+    font-style: normal;
+    font-size: 30px;
+    color: rgb(236, 236, 236);
+    margin-left: 55vh;
+    margin-top: 5vh;
+}
+
+.p {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 10vh;
+    margin-top: -5vh;
+}
+
+.issoai9 {
+    margin-top: -55vh;
+    margin-left: 5vh;
+}
+
+.issoai10 {
+    color: white;
+    margin-left: 60vh;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
+.img7 {
+    width: 400px;
+    height: 400px;
+
+}
+
+.issoai11 {
+    margin-left: 150vh;
+    margin-top: -130vh;
+}
+
+.img8 {
+    width: 300px;
+    height: 300px;
+}
+
+.img9 {
+    width: 250px;
+    height: 250px;
+}
+
+.issoai12 {
+    margin-left: 130vh;
+    margin-top: 40vh;
+}
+
+.issoai13 {
+    font-family: "Carter One", system-ui;
+    font-weight: 400;
+    text-shadow: -2px 2px 4px rgba(51, 32, 121, 0.5);
+    font-style: normal;
+    font-size: 40px;
+    color: rgb(236, 236, 236);
+    margin-left: 55vh;
+    margin-top: -5vh;
+}
+.issoai14 {
+    display: flex;
+    justify-content: center;
+}
+.img11 {
+
+    width: 900px;
+    height: 500px;
+}
+.img12 {
+    width: 150px;
+    height: 150px;
+}
+.issoai15 {
+    margin-left: 100vh;
+    margin-top: -100vh;
 }
